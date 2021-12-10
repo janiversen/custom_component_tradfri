@@ -1,2 +1,3 @@
-# custom_component_tradfri
-Add correction that have not been merged in the official release
+The tradfri official integration with the not yet merged PR´s
+
+- Added timeout, to handle restart issues.
